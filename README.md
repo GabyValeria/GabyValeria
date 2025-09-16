@@ -34,6 +34,11 @@ Busco sempre unir **lógica, performance e criatividade** no desenvolvimento de 
 
 ## 📫 Conecte-se comigo
 *(Em breve adicionarei minhas redes por aqui 👀)*
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
+  </a>
+</p>
 
 ---
 
